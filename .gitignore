@@ -1,0 +1,15 @@
+# Python
+__pycache__
+*.pyc 
+
+# Environments
+venv
+myenv
+myvenv
+
+
+# Mac
+.DS_Store
+
+# Static
+static/
